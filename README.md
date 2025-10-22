@@ -4,8 +4,8 @@ I also explore Spring Boot, Hibernate, and MySQL to build scalable and efficient
 With a solid foundation in Data Structures and Algorithms (DSA), I’ve solved 700+ problems across GeeksforGeeks and LeetCode, constantly sharpening my coding and analytical skills.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-bhawsar-23199a236/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshubhawsar3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshu-bhawsar-23199a236/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Shivanshu_Bhawsar/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230F9D58.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shivanshubhawasr1572003)
 
@@ -32,6 +32,26 @@ With a solid foundation in Data Structures and Algorithms (DSA), I’ve solved 7
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 🚀 Featured Projects
+### 🎓 [StudyNotion – Ed-Tech Learning Platform](https://github.com/Shivanshu-Bhawsar/StudyNotion-Ed-Tech-Platform)
+A full-stack platform built with **MERN Stack**, enabling course management, secure authentication, and payment integration.  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+🔗 **Live:** [studynotion-ed-tech-platform.vercel.app](https://studynotion-ed-tech-platform.vercel.app)
+
+---
+
+### 🎬 [Book My Cinema – Movie Ticket Booking App](https://github.com/Shivanshu-Bhawsar/book-my-cinema)
+A real-time cinema booking system with seat concurrency handling via **Socket.io**.  
+**Tech:** React.js, Express.js, MongoDB, JWT  
+🔗 **Live:** [book-my-cinema.vercel.app](https://book-my-cinema.vercel.app)
+
+---
+
+### 🛍️ [Apna Store – E-Commerce App](https://github.com/Shivanshu-Bhawsar/my_store)
+An e-commerce web app for clothing with product management, payments, and admin dashboard.  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+🔗 **Live:** [apna-store-4x39.onrender.com](https://apna-store-4x39.onrender.com)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shivanshu-Bhawsar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Shivanshu-Bhawsar&theme=dark&hide_border=false)<br/>
@@ -43,4 +63,8 @@ With a solid foundation in Data Structures and Algorithms (DSA), I’ve solved 7
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shivanshu-Bhawsar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤝 Connect with Me
+I’m always open to collaborating on exciting projects or discussing new ideas!  
+📫 Reach me at **shivanshubhawsar3@gmail.com**  
+🌐 [LinkedIn](https://www.linkedin.com/in/shivanshu-bhawsar-23199a236/) | [LeetCode](https://leetcode.com/u/Shivanshu_Bhawsar/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shivanshubhawasr1572003)
+
