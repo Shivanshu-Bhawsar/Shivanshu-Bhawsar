@@ -1,6 +1,8 @@
 # 💫 About Me:
-I'm full stack developer proficient in MERN and Java + Spring Boot. And, a good knowledge of DSA.
-
+👋 Hi, I'm Shivanshu Bhawsar
+I’m a dedicated developer with strong expertise in C++, Java, and MERN Stack (MongoDB, Express.js, React.js, Node.js).
+I also explore Spring Boot, Hibernate, and MySQL to build scalable and efficient backend systems.
+With a solid foundation in Data Structures and Algorithms (DSA), I’ve solved 700+ problems across GeeksforGeeks and LeetCode, constantly sharpening my coding and analytical skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-bhawsar-23199a236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanshubhawsar3@gmail.com) [![leetcode](https://img.shields.io/badge/Leetcode-D14836?logo=leetcode&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivanshu-bhawsar-23199a236)
