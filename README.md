@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Shivanshu Bhawsar
+# 👋 Hi, I'm Shivanshu Bhawsar
 I’m a dedicated developer with strong expertise in C++, Java, and MERN Stack (MongoDB, Express.js, React.js, Node.js).
 I also explore Spring Boot, Hibernate, and MySQL to build scalable and efficient backend systems.
 With a solid foundation in Data Structures and Algorithms (DSA), I’ve solved 700+ problems across GeeksforGeeks and LeetCode, constantly sharpening my coding and analytical skills.
