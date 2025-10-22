@@ -13,15 +13,6 @@ With a solid foundation in **Data Structures and Algorithms (DSA)**, I’ve solv
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech CSE student at **Sushila Devi Bansal College of Technology, Indore (2021–2025)**  
-- 💡 Passionate about **Full Stack Development** and **Problem Solving**  
-- 🌱 Currently exploring **Microservices**, **Spring Boot**, and **Cloud Deployment**  
-- 💬 Ask me about **C++**, **DSA**, **React.js**, **Node.js**, and **Spring Boot**  
-- ⚡ Fun fact: I love solving complex coding problems and turning ideas into reality.
-
----
-
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
